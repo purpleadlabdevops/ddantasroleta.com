@@ -1,0 +1,42 @@
+@import '_functions';
+@import '_reset';
+
+.dtpcnt{opacity: 0;}
+
+.roleta{
+  text-align: center;
+  color: #fff;
+  h1{
+    font-size: 36px;
+    font-weight: 600;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+  h2{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  a{
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    background-color: #00BC00;
+    border-radius: 16px 16px 16px 16px;
+    box-shadow: 0px 0px 32px 0px #FFFFFF;
+    font-size: 18px;
+    padding: 20px 40px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+  }
+  &__first{
+    background: url('@/assets/roleta-1.jpeg') no-repeat center center/cover;
+    padding: 30px 10px 10px;
+  }
+  &__second{
+    background: url('@/assets/roleta-2.jpeg') no-repeat center center/cover;
+    padding: 20px 10px 20px;
+  }
+}
