@@ -9,7 +9,7 @@
     <div class="roleta__second">
       <div class="container">
         <h2>Clique no botão para aprender comigo</h2>
-        <a href="https://track.cliquesdasorte.com/click">QUERO APRENDER DE GRAÇA!</a>
+        <a href="https://track.ddantasroleta.com/click">QUERO APRENDER DE GRAÇA!</a>
       </div>
     </div>
   </section>

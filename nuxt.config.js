@@ -32,7 +32,7 @@ export default {
       },
       {
         "http-equiv": "delegate-ch",
-        content: "sec-ch-ua https://track.cliquesdasorte.com; sec-ch-ua-mobile https://track.cliquesdasorte.com; sec-ch-ua-arch https://track.cliquesdasorte.com; sec-ch-ua-model https://track.cliquesdasorte.com; sec-ch-ua-platform https://track.cliquesdasorte.com; sec-ch-ua-platform-version https://track.cliquesdasorte.com; sec-ch-ua-bitness https://track.cliquesdasorte.com; sec-ch-ua-full-version-list https://track.cliquesdasorte.com; sec-ch-ua-full-version https://track.cliquesdasorte.com",
+        content: "sec-ch-ua https://track.ddantasroleta.com; sec-ch-ua-mobile https://track.ddantasroleta.com; sec-ch-ua-arch https://track.ddantasroleta.com; sec-ch-ua-model https://track.ddantasroleta.com; sec-ch-ua-platform https://track.ddantasroleta.com; sec-ch-ua-platform-version https://track.ddantasroleta.com; sec-ch-ua-bitness https://track.ddantasroleta.com; sec-ch-ua-full-version-list https://track.ddantasroleta.com; sec-ch-ua-full-version https://track.ddantasroleta.com",
       },
     ],
     link: [
